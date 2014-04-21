@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_nsName">SimpleExcelForTN.server.msexcel</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHJvdGVjdGVkIHN0YXRpYyBQcm9wZXJ0aWVzIF9wcm9wczsKcHJvdGVjdGVkIHN0YXRpYyBWZWN0
+b3IgcmVnaXN0ZXJlZENvbnRlbnRUeXBlcyA9IG5ldyBWZWN0b3IoKTsKCnB1YmxpYyBzdGF0aWMg
+ZmluYWwgU3RyaW5nIEFETUlOX1NFUlZJQ0VTW10gPSB7CiAgICAgICAgIlNpbXBsZUV4Y2VsRm9y
+VE4uc2VydmVyLm1zZXhjZWw6aW5pdCIsICJTaW1wbGVFeGNlbEZvclROLnNlcnZlci5tc2V4Y2Vs
+OnJlZ2lzdGVyQ29udGVudEhhbmRsZXIiLCAiU2ltcGxlRXhjZWxGb3JUTi5zZXJ2ZXIubXNleGNl
+bDpzZXRBQ0xzIiwgCiAgICAgICAgIlNpbXBsZUV4Y2VsRm9yVE4uc2VydmVyLm1zZXhjZWw6c2h1
+dGRvd24iCiAgICB9OwpwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBERVZFTF9TRVJWSUNFU1td
+ID0gewogICAgICAgICJTaW1wbGVFeGNlbEZvclROLnV0aWw6TVNFeGNlbFdvcmtzaGVldFRvUmVj
+b3JkIgogICAgfTsKCg==</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.excel.net.ContentHandlerFactory_ExcelFile</value>
+    <value>java.util.*</value>
+    <value>com.wm.app.b2b.server.*</value>
+    <value>com.wm.data.*</value>
+    <value>java.io.*</value>
+  </array>
+</Values>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">shutdown</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">ICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIFNlcnZlckFQSS5yZW1vdmVDb250ZW50
+SGFuZGxlcigiYXBwbGljYXRpb24vdm5kLm1zLWV4Y2VsIik7CiAgICAgICAgICAgIGZvcihpbnQg
+aSA9IDA7IGkgPCByZWdpc3RlcmVkQ29udGVudFR5cGVzLnNpemUoKTsgaSsrKQogICAgICAgICAg
+ICAgICAgU2VydmVyQVBJLnJlbW92ZUNvbnRlbnRIYW5kbGVyKChTdHJpbmcpcmVnaXN0ZXJlZENv
+bnRlbnRUeXBlcy5lbGVtZW50QXQoaSkpOwoKICAgICAgICAgICAgLy8gVW5SZWdpc3RlciBFeGNl
+bCBmaWxlIENhdGVnb3J5IGZvciBUTgoJICAgIElEYXRhIGlkYXRhMSA9IElEYXRhRmFjdG9yeS5j
+cmVhdGUoMSk7CgkgICAgVmFsdWVzRW11bGF0b3IucHV0KGlkYXRhMSwgImRpc3BsYXlOYW1lIiwg
+IkV4Y2VsIGZpbGUiKTsKCSAgICBTZXJ2aWNlLmRvSW52b2tlKCJ3bS50bi5kb2N0eXBlIiwgInVu
+cmVnaXN0ZXJDYXRlZ29yeSIsIGlkYXRhMSk7CgogICAgICAgIH0KICAgICAgICBjYXRjaChFeGNl
+cHRpb24gZSkKICAgICAgICB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAg
+ICAgfQ==</value>
+</Values>

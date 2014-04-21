@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_nsName">SimpleExcelForTN.tn.doc.excel</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">c3RhdGljIGZpbmFsIFN0cmluZyBQUk9QX01BWF9FUlJTID0gInRuLmRvYy52YWxpZGF0ZS5tYXhf
+ZXJycyI7CnN0YXRpYyBpbnQgbWF4X2VycnMgPSAtMjsKCiAgICBzdGF0aWMgaW50IGdldF9tYXhf
+ZXJycygpCiAgICB7CiAgICAgICAgdHJ5CiAgICAgICAgewogICAgICAgICAgICBTdHJpbmcgcyA9
+IFN5c3RlbS5nZXRQcm9wZXJ0eSgidG4uZG9jLnZhbGlkYXRlLm1heF9lcnJzIiwgIjEwIik7CiAg
+ICAgICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KHMpOwogICAgICAgIH0KICAgICAgICBj
+YXRjaChFeGNlcHRpb24gX2V4KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIC0xOwogICAg
+ICAgIH0KICAgIH0KCg==</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.app.b2b.server.*</value>
+    <value>com.wm.app.tn.doc.*</value>
+    <value>com.wm.app.tn.err.*</value>
+    <value>com.wm.app.tn.util.IDataUtilExtension</value>
+    <value>com.wm.data.*</value>
+    <value>java.util.StringTokenizer</value>
+    <value>com.wm.excel.parse.ParseError</value>
+  </array>
+</Values>
